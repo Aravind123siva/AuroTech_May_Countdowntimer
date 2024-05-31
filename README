@@ -1,0 +1,17 @@
+Countdown Timer with Tkinter:
+
+A countdown timer program with a graphical user interface (GUI) built using Python and the Tkinter library. The user can specify a time in minutes and seconds, and the program will count down to zero, displaying the remaining time in a digital clock format.
+
+Features:
+
+Graphical user interface with Tkinter
+Accepts user input for countdown time in minutes and seconds
+Counts down to zero, displaying the remaining time in a digital clock format
+Plays a sound when the countdown reaches zero
+Allows the user to start, pause, resume, or reset the countdown
+Displays the countdown status (running, paused, or finished)
+
+Requirements:
+
+Python 3.x
+Tkinter library (usually comes pre-installed with Python)
